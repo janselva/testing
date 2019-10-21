@@ -148,7 +148,7 @@ virtualenv==15.1.0
 voluptuous==0.11.1
 wcwidth==0.1.7
 webencodings==0.5
-Werkzeug==0.11.13
+Werkzeug==0.15.3
 wheel==0.29.0
 widgetsnbextension==2.0.0
 wrapt==1.10.8
