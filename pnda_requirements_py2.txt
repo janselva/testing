@@ -49,7 +49,7 @@ ipython-sql==0.3.8
 ipywidgets==6.0.0
 iso8601==0.1.11
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsonschema==2.5.1
 jupyter==1.0.0
 jupyter-client==5.2.0
