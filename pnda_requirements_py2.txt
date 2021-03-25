@@ -110,7 +110,7 @@ python-keystoneclient==3.8.0
 python-swiftclient==3.2.0
 pytz==2016.10
 pywebhdfs==0.4.1
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.0
 pyzmq==16.0.2
 qtconsole==4.2.1
