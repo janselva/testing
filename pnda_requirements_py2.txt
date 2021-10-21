@@ -5,7 +5,7 @@ atomicwrites==1.1.5
 attrs==18.1.0
 autovizwidget==0.12.4
 avro==1.8.1
-Babel==2.3.4
+Babel==2.9.1
 backports.shutil_get_terminal_size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
 backports-abc==0.5
